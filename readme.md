@@ -1,0 +1,1 @@
+仿37game（http://game.37.com/）页面。
